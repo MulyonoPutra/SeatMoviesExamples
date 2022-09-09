@@ -1,0 +1,39 @@
+{
+  "rows": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+  ],
+  "cols": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+  ],
+  "reserved": [
+      {
+          "user": "ady",
+          "seatNumber": "A1",
+          "price": 20000
+      },
+      {
+          "user": "ady",
+          "seatNumber": "A3",
+          "price": 20000
+      }
+  ],
+  "price": 20000,
+  "titleMovie": "Captain America",
+  "roomNumber": "Room 1"
+}
